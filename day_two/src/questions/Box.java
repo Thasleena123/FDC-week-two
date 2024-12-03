@@ -1,4 +1,4 @@
-package question_one;
+package questions;
 
 public class Box<T> {
     public T value;
