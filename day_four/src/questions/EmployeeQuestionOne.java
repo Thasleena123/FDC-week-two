@@ -1,10 +1,10 @@
-package questions;
+package week_two.day_four.src.questions;
 
 public class EmployeeQuestionOne implements Comparable<EmployeeQuestionOne> {
     int id;
-    String name;
+    public String name;
     double salary;
-    int age;
+    public int age;
 
     public EmployeeQuestionOne(int id, String name, int age, double salary) {
         this.id = id;

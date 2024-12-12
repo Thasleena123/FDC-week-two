@@ -1,3 +1,5 @@
+package week_two.dayone.src;
+
 import java.io.FileReader;
 import java.util.InputMismatchException;
 import java.util.Scanner;

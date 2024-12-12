@@ -1,5 +1,3 @@
-package question_three;
-
 public class CustumCalendervalidate {
     public boolean isLeapYear(int year) {
         if (year % 400 == 0) {

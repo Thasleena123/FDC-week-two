@@ -1,5 +1,3 @@
-package question_three;
-
 public class ExecutableQuestionThree {
     public static void main(String[] args) {
         try {

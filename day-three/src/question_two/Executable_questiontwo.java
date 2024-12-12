@@ -1,5 +1,3 @@
-package question_two;
-
 public class Executable_questiontwo {
     public static void main(String[] args) throws InvalidAmountException {
         BankSystem bankSystem1 = new BankSystem(2345, "thasleena", 67);

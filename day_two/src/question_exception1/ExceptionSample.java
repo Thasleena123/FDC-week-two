@@ -1,4 +1,4 @@
-package question_exception1;
+package week_two.day_two.src.question_exception1;
 
 import java.io.FileWriter;
 import java.io.IOException;
